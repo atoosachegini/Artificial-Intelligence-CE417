@@ -4,11 +4,9 @@ Solution to all practical homeworks and projects of my AI course
 
 Spring 2020
 
-
 1.Decision Tree:
     - [Implementation of a decision tree to diagnose diabetes](https://github.com/atoosachegini/Artificial-Intelligence-CE417/tree/main/DecisionTree)
    
-
 2.Genetic Programming (GP)
     - [Function approximation with the help of Genetic Programming (GP)](https://github.com/atoosachegini/Artificial-Intelligence-CE417/tree/main/GeneticProgramming)
 
