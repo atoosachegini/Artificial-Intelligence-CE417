@@ -18,7 +18,7 @@ Spring 2020
     1) [Function approximation](https://github.com/atoosachegini/Artificial-Intelligence-CE417/blob/main/Neural-Network/First_Part.py)
     2) [Function approximation with noise](https://github.com/atoosachegini/Artificial-Intelligence-CE417/blob/main/Neural-Network/Second_Part.py)
     3) [Approximation of functions with high dimensions](https://github.com/atoosachegini/Artificial-Intelligence-CE417/blob/main/Neural-Network/Third_Part.py)
-    4) [Approximation of functions in images(image processing)][https://github.com/atoosachegini/Artificial-Intelligence-CE417/blob/main/Neural-Network/Forth_Part.py]
+    4) [Approximation of functions in images(image processing)](https://github.com/atoosachegini/Artificial-Intelligence-CE417/blob/main/Neural-Network/Forth_Part.py)
     5) [USPS classification](https://github.com/atoosachegini/Artificial-Intelligence-CE417/blob/main/Neural-Network/Fifth_Part.py)
     6) [USPS classification with noise](https://github.com/atoosachegini/Artificial-Intelligence-CE417/blob/main/Neural-Network/sixth_Part.py)
 
